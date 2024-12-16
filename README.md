@@ -16,4 +16,7 @@ Hardhat was chosen for its:
 - Built-in Network: Hardhat Network provides a local blockchain for testing.
 - Comprehensive Tools: Features like console testing, script automation, and debugging.
 
-
+### Using OpenZeppelin
+Base contracts used:
+- ERC20
+- Ownable
